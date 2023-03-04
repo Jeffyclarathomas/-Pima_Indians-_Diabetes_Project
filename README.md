@@ -25,3 +25,6 @@ https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 8: Age: Age (years)
 
 9: Outcome: Class variable (0 or 1) 268 of 768 are 1, the others are 0
+
+
+Model Deployment using Flask avaiable at : http://127.0.0.1:5000
